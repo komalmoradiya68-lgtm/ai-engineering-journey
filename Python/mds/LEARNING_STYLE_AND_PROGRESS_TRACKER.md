@@ -106,10 +106,10 @@ This engineering curriculum rejects generic "vibe-coding" and passive 30-hour vi
 [██████████] Lesson 1: Dynamic Variables, Scientific Formulas & f-strings (DONE - 100/100)
 [██████████] Lesson 2: Interactive Dynamic Inputs & Type Casting (`input()`, `float()`) (DONE - 100/100)
 [██████████] Lesson 3: Decision Logic & Autonomous Control (`if / else`) (DONE - 100/100)
-[▓▓░░░░░░░░] Lesson 4: Multi-Branch Sensor Fusion (`elif`, `and`, `or`, `not`) (UP NEXT)
-[░░░░░░░░░░] Lesson 5: Continuous Monitoring & Loops (`while`, `break`) (QUEUED)
-[░░░░░░░░░░] Lesson 6: Counted Loops & Sequences (`for`, `range()`) (QUEUED)
-[░░░░░░░░░░] Lesson 7: Dynamic Collections & Slicing (`list`, `.append()`, `[:]`) (QUEUED)
+[██████████] Lesson 4: Multi-Branch Sensor Fusion (`elif`, `and`, `or`, `not`) (DONE - 100/100)
+[██████████] Lesson 5: Continuous Monitoring & Loops (`while`, `break`) (DONE - 100/100)
+[██████████] Lesson 6: Counted Loops & Sequences (`for`, `range()`) (DONE - 100/100)
+[▓▓░░░░░░░░] Lesson 7: Dynamic Collections & Slicing (`list`, `.append()`, `[:]`) (UP NEXT)
 [░░░░░░░░░░] Lesson 8: Reusable Mathematical Engines (`def`, Return Values) (QUEUED)
 [░░░░░░░░░░] Lesson 9: Structured Key-Value Telemetry (`dict`, Nested JSON) (QUEUED)
 [░░░░░░░░░░] Lesson 10: Matrix & Linear Algebra Primitives (Nested Lists, Grids) (QUEUED)
@@ -126,10 +126,10 @@ This engineering curriculum rejects generic "vibe-coding" and passive 30-hour vi
 | **L1** | **Dynamic Typing & Formulas** | Rocket *Bhaskaracharya* Kinetic Energy & Momentum ($E_k = \frac{1}{2}mv^2, p = mv$) | [`lesson1.py`](file:///F:/DEV/Shlok-2/me/Engineering/Python/Lessons/lesson1.py) | **MASTERED (100/100)** |
 | **L2** | **Interactive Inputs & Casting** | Drone Payload & Lift Thrust Ratio ($T = (m_{dry} + m_{payload}) \cdot g$) | [`lesson2.py`](file:///F:/DEV/Shlok-2/me/Engineering/Python/Lessons/lesson2.py) | **MASTERED (100/100)** |
 | **L3** | **Decision Logic & Control** | Mars Lander Retro-Rocket Altitude & Velocity Cutoff (`if / else`) | [`lesson3.py`](file:///F:/DEV/Shlok-2/me/Engineering/Python/Lessons/lesson3.py) | **MASTERED (100/100)** |
-| **L4** | **Multi-Branch Sensor Fusion** | Nuclear Reactor Thermal-Hydraulic Hazard Matrix (`elif`, `and`, `or`) | `lesson4.py` | **UP NEXT** |
-| **L5** | **Continuous System Loops** | Deep-Sea Submarine Hull Pressure Descent Simulation (`while`) | `lesson5.py` | **QUEUED** |
-| **L6** | **Counted Sequences & Steppers** | Satellite Orbital Radiation Sensor Sweep & Step Accumulator (`for`) | `lesson6.py` | **QUEUED** |
-| **L7** | **Dynamic Lists & Telemetry Slicing** | Flight Black-Box Flight Recorder & Moving Average Buffer (`list`) | `lesson7.py` | **QUEUED** |
+| **L4** | **Multi-Branch Sensor Fusion** | Nuclear Reactor Thermal-Hydraulic Hazard Matrix (`elif`, `and`, `or`) | [`lesson4.py`](file:///F:/DEV/Shlok-2/me/Engineering/Python/Lessons/lesson4.py) | **MASTERED (100/100)** |
+| **L5** | **Continuous System Loops** | Planetary Rover Fast-Charging Battery Monitor (`while`) | [`lesson5.py`](file:///F:/DEV/Shlok-2/me/Engineering/Python/Lessons/lesson5.py) | **MASTERED (100/100)** |
+| **L6** | **Counted Sequences & Steppers** | Satellite Orbital Radiation Sensor Sweep & Step Accumulator (`for`) | [`lesson6.py`](file:///F:/DEV/Shlok-2/me/Engineering/Python/Lessons/lesson6.py) | **MASTERED (100/100)** |
+| **L7** | **Dynamic Lists & Telemetry Slicing** | Flight Black-Box Flight Recorder & Moving Average Buffer (`list`) | `lesson7.py` | **UP NEXT** |
 | **L8** | **Modular Math Engines** | Ballistic Trajectory & Orbital Escape Velocity Engine (`def`) | `lesson8.py` | **QUEUED** |
 | **L9** | **Key-Value Diagnostic Packets** | Rover Subsystem Health & Telemetry State Dictionary (`dict`) | `lesson9.py` | **QUEUED** |
 | **L10**| **Matrix & 2D Grid Math** | 2D LiDAR Spatial Grid Mapping & Elevation Matrix (Nested Lists) | `lesson10.py` | **QUEUED** |
