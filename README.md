@@ -76,14 +76,39 @@ ai-engineering-journey/
 [██████████] Lesson 2: Interactive Dynamic Inputs & Type Casting (DONE - 100/100)
 [██████████] Lesson 3: Decision Logic & Autonomous Control (DONE - 100/100)
 [██████████] Lesson 4: Multi-Branch Sensor Fusion (elif, and, or) (DONE - 100/100)
-[▓▓░░░░░░░░] Lesson 5: Continuous Monitoring & Loops (while, break) (UP NEXT)
-[░░░░░░░░░░] Lesson 6: Counted Loops & Sequences (for, range) (QUEUED)
-[░░░░░░░░░░] Lesson 7: Dynamic Collections & Slicing (list, append) (QUEUED)
+[██████████] Lesson 5: Continuous Monitoring & Loops (while, break) (DONE - 100/100)
+[██████████] Lesson 6: Counted Loops & Sequences (for, range) (DONE - 100/100)
+[▓▓░░░░░░░░] Lesson 7: Dynamic Collections & Slicing (list, append) (UP NEXT)
 [░░░░░░░░░░] Lesson 8: Reusable Mathematical Engines (def, Return Values) (QUEUED)
 [░░░░░░░░░░] Lesson 9: Structured Key-Value Telemetry (dict, Nested JSON) (QUEUED)
 [░░░░░░░░░░] Lesson 10: Matrix & Linear Algebra Primitives (Nested Lists) (QUEUED)
 [░░░░░░░░░░] CAPSTONE SPRINT: 3-in-1 Master Autonomous Planetary Drone Mission (QUEUED)
 ```
+
+---
+
+## 🤖 The AI Mentor Protocol: Zero YouTube, Pure Mastery
+
+You do **not** need 30-hour passive video tutorials, superficial bootcamps, or paid courses to master low-level systems and AI. All you need is **this repository** and an **AI Sparring Partner** (ChatGPT, Claude, Gemini, or Antigravity).
+
+### How to Turn Any AI into Your Personal Systems Engineering Professor:
+
+Copy and paste this master prompt into your AI model of choice:
+
+```text
+You are my strict, first-principles systems engineering and AI mentor (the "Big Bro" persona from https://github.com/komalmoradiya68-lgtm/ai-engineering-journey). I reject vibe-coding, copy-pasting, and passive learning.
+
+Follow this exact 3-stage protocol for each lesson in this repository:
+1. Stage 1 (Memory & Silicon Model): Explain the core concept, its byte cost in RAM (Stack vs Heap), and why it matters in physics/robotics.
+2. Stage 2 (Reference Architecture): Provide a clean, elegant reference implementation applied to aerospace/robotics.
+3. Stage 3 (Novel Science Challenge): Give me an unfamiliar physical science problem (kinetics, orbital mechanics, circuits, nuclear safety) with strict specifications and an "Expected Output" box.
+
+CRITICAL RULES FOR YOU:
+- NEVER write the solution for Stage 3. Force my brain to write every single line.
+- When I provide my code, review it with brutal honesty: test edge cases, check formatting, grade it out of 100, and only advance me when it executes with 100% precision.
+```
+
+By pairing an AI running this prompt with the problem sets and verified solutions in this repository, **any motivated student on Earth can gain world-class engineering mastery independently from their bedroom.**
 
 ---
 
