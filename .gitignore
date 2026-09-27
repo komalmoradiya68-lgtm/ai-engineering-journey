@@ -1,0 +1,31 @@
+# Compiled Binaries & Executables
+*.exe
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+.exe/
+
+# Build artifacts & microcontrollers
+build/
+*.hex
+*.elf
+*.bin
+*.eep
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env/
+env/
+venv/
+ENV/
+
+# System and editor files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp

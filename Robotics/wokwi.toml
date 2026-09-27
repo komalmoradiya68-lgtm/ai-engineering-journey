@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/Robotics.ino.hex"
+elf = "build/Robotics.ino.elf"

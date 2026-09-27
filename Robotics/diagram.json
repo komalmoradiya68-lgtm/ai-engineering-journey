@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "author": "Shlok",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 0, "left": 0, "attrs": {} }
+  ],
+  "connections": [
+    [ "uno:13", "uno:GND.1", "green", [ "v0" ] ]
+  ]
+}
