@@ -69,5 +69,5 @@ Robotics/
 
 ## 📖 4. Foundational Blueprints & Hardware Theory
 
-For circuit physics (Ohm's/Kirchhoff's laws, MOSFET switches, flyback diodes), register manipulation (`DDRB`, `PORTB`, `PINB`), and your 4-phase project roadmap:
-* **Read:** [CPP_EMBEDDED_ROBOTICS_BLUEPRINT.md](file:///f:/DEV/Shlok-2/me/Engineering/Python/mds/CPP_EMBEDDED_ROBOTICS_BLUEPRINT.md)
+* **Circuit Physics, LEDs & Power Architecture:** [CIRCUIT_PHYSICS_AND_POWER_GUIDE.md](file:///F:/DEV/Shlok-2/me/Engineering/Robotics/CIRCUIT_PHYSICS_AND_POWER_GUIDE.md)
+* **Embedded Blueprint & Hardware Theory:** [CPP_EMBEDDED_ROBOTICS_BLUEPRINT.md](file:///F:/DEV/Shlok-2/me/Engineering/Python/mds/CPP_EMBEDDED_ROBOTICS_BLUEPRINT.md)

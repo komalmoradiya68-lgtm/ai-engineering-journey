@@ -43,6 +43,7 @@ ai-engineering-journey/
 │
 └── Robotics/                           # Track C: Embedded circuits, microcontrollers & simulation
     ├── Robotics.ino                    # Non-blocking telemetry & state-machine firmware
+    ├── CIRCUIT_PHYSICS_AND_POWER_GUIDE.md # Quantum LED physics, resistor math & power rails
     ├── diagram.json                    # Wokwi virtual hardware circuit schematic
     ├── wokwi.toml                      # Wokwi firmware simulation linker
     └── README.md                       # Electrical metrology & multimeter operations guide
