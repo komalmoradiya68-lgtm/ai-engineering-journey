@@ -139,15 +139,15 @@ This engineering curriculum rejects generic "vibe-coding" and passive 30-hour vi
 
 ## 4. Hardware Lab & Procurement Milestones
 
-* **Phase 1 Lab (Ordered / In Transit from Robu.in):**
-  * Arduino Uno R3 Clone (CH340G / ATmega328P)
-  * MB-102 830-Point Solderless Breadboard
-  * Dupont Jumper Wires (M-M, 40-pc)
-  * Resistor Packs (220Ω and 10kΩ)
-  * 5mm LEDs (Red, Green, Yellow)
-  * Tactile 4-Pin Push Buttons
-  * Digital Multimeter (DT830D)
-* **Virtual Prototyping:** [Wokwi.com](https://wokwi.com) actively used for testing circuit logic and bitwise register control before physical wiring.
+* **Phase 1 Lab (DELIVERED & COMMISSIONED - Sep 29, 2026):**
+  * Arduino Uno R3 (ATmega328P / CH340) — **VERIFIED ON COM6**
+  * MB-102 830-Point Solderless Breadboard — **VERIFIED & OPERATIONAL**
+  * Dupont Jumper Wires (M-M, 40-pc) — **VERIFIED**
+  * 600-pc Metal Film Resistor Kit (220Ω measured via metrology) — **VERIFIED**
+  * 375-pc 5mm LED Assortment (Blue 5mm LED fired at 8.22 mA) — **VERIFIED**
+  * Haoyue DT830D Digital Multimeter — **CALIBRATED & VERIFIED**
+  * 4-Pin Tactile Push Buttons — **VERIFIED INVENTORY**
+* **First Physical Circuit Achievement:** Pin 13 pulsed Heartbeat circuit assembled on breadboard, verified with live telemetry, photos archived, and Kirchhoff's Voltage Law ($V_{Total}=4.99\text{V}, V_{LED}=2.51\text{V}, V_R=1.81\text{V}$) confirmed via physical metrology. Zero casualties, zero short circuits.
 
 ---
 
