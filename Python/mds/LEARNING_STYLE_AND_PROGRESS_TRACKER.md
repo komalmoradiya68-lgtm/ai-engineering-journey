@@ -200,3 +200,27 @@ This engineering curriculum rejects generic "vibe-coding" and passive 30-hour vi
 ```
 
 * **Active System Rule:** Every lesson milestone in C++ and Python must produce a standalone, compiling/running artifact verified through terminal execution, updated here in the permanent registry.
+
+```
+========================================================================================
+                 SHLOK // EMBEDDED ROBOTICS & HARDWARE AUDIT REPORT #02
+========================================================================================
+  • Audit Date:                 October 02, 2026
+  • Target Milestone:           Circuit 02: Closed-Loop Digital Input & Tactile Actuation
+  • Physical Architecture:      Arduino UNO (ATmega328P) @ 16 MHz, MB-102 Breadboard
+  • Verified Signal Pipeline:   Tactile Push Button (Pin 2, INPUT_PULLUP) ──► ATmega328P
+                                                                                   │
+                                Red 5mm Photonic Diode (Pin 12/13, 220Ω) ◄─────────┘
+  • Key Technical Breakthroughs:
+      1. Independent Netlist Routing: Architected custom breadboard topology (Rows 20-35)
+         without relying on boilerplate tutorials.
+      2. The Floating Pin Solution: Transitioned from clumsy external 10kΩ pull-down circuits
+         to silicon-level internal pull-up (INPUT_PULLUP, 30kΩ internal resistor).
+      3. Physical Metrology & Isolation: Successfully diagnosed split breadboard ground rails,
+         diode P-N junction polarity (anode/cathode), and resistor sizing.
+      4. Closed-Loop Latency: Achieved sub-millisecond tactile triggering with zero hardware
+         casualties.
+  • Hardware Status:            100% OPERATIONAL & VERIFIED (Zero blown components)
+  • Immediate Next Milestone:   Circuit 03: PWM Analog Dimming & Multi-State Toggle Machine
+========================================================================================
+```
