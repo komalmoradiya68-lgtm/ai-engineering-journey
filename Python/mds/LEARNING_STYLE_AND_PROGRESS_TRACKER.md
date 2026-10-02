@@ -224,3 +224,28 @@ This engineering curriculum rejects generic "vibe-coding" and passive 30-hour vi
   • Immediate Next Milestone:   Circuit 03: PWM Analog Dimming & Multi-State Toggle Machine
 ========================================================================================
 ```
+
+```
+========================================================================================
+                 SHLOK // EMBEDDED ROBOTICS & HARDWARE AUDIT REPORT #03
+========================================================================================
+  • Audit Date:                 October 02, 2026
+  • Target Milestone:           Circuit 03: 4-Stage Tactical Dimmer (Hardware PWM + FSM)
+  • Physical Architecture:      Arduino UNO (ATmega328P) @ 16 MHz, 8-bit Timer2 @ 490 Hz
+  • Verified Signal Pipeline:   Tactile Button (Pin 2, Diagonal Input) ──► ATmega328P
+                                                                             │ Edge Detect
+                                Red LED (Pin ~11 PWM, 220Ω) ◄────────────────┘ Timer2 Mod
+  • Key Technical Breakthroughs:
+      1. Hardware PWM Mastery: Commanded 8-bit Timer2 @ 490 Hz to simulate variable voltage
+         (0%, 14%, 43%, 100% duty cycles) via analogWrite(), leveraging human persistence of vision.
+      2. Edge-Triggered State Memory: Transitioned from momentary level-sensing to falling-edge
+         transition detection (HIGH -> LOW) with 40ms software debouncing.
+      3. Modulo Ring Buffer: Implemented (currentMode + 1) % 4 for clean, circular finite state
+         machine transitions.
+      4. Diagonal Switch Invariant: Proved the diagonal pin wiring rule on 4-pin tactile switches
+         for foolproof mechanical breadboard routing.
+  • Hardware Status:            100% OPERATIONAL & VERIFIED ON PHYSICAL DESK (4-Click Full Cycle)
+  • Immediate Next Milestone:   Circuit 04: Multi-Color RGB / Traffic Light Autonomous FSM
+========================================================================================
+```
+
